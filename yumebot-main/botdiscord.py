@@ -257,4 +257,4 @@ async def play(ctx, url):
 
 client.loop.create_task(audio_player_task())
 
-client.run('NzUxNzA0Nzk1ODk0Nzc1ODM4.X1M9pQ.HGkqHZ2IY5QeGjK9K61tKa--AGk')
+client.run('Your token goes here')
